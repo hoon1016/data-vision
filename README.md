@@ -6,6 +6,7 @@
 
 - 질문은 이메일  blockenters@gmail.com 으로 받습니다. 질문의 답변은 수업시간에 해드립니다. 
 
+- 과정 학습 설문 조사 : https://docs.google.com/forms/d/16g6UQJloI5594TYg0264wjtNcofACFlbzmR7vZFxexk/edit
 
 ---
 
