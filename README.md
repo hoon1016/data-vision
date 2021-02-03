@@ -12,6 +12,8 @@
 
 - Git 이란(버전컨트롤시스템) : https://bit.ly/36D6gHc
 
+- 웹/앱 서비스 구성 : https://bit.ly/2YFaWb5
+
 ---
 
 ## 실습 환경 셋팅 
