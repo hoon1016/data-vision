@@ -1,7 +1,5 @@
 ## data-vision
 
-- https://docs.google.com/presentation/d/1pP0G6YXGjDuKMyksiUc7sGnZ-Eb62ZekxGHwFeOWnU0/edit#slide=id.gb5d21f45b3_0_151
-
 - 실습파일은 매일 업로드 됩니다. 따라서 아래 실습 환경 셋팅의 3번 실행방법 대로 하면 됩니다. 
 
 - 질문은 이메일  blockenters@gmail.com 으로 받습니다. 질문의 답변은 수업시간에 해드립니다. 
