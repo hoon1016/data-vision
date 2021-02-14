@@ -14,6 +14,14 @@
 
 ---
 
+## Colab 환경 셋팅
+
+- Colab 환경 설정 방법 : https://bit.ly/34B65v1 
+
+- Colab 에서 구글 드라이브에 연결하는 방법 : https://bit.ly/3aHCOT8
+
+---
+
 ## 실습 환경 셋팅 
 
 ### 1. Chrome 설치 
