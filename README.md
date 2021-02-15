@@ -6,6 +6,8 @@
 
 - JDK : https://drive.google.com/file/d/1noff1Rw4z8k8rWiYxprWoW3YUQc48xo8/view?usp=sharing
 
+- https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype
+
 ---
 
 ## 참고 자료
