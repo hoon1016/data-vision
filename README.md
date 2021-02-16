@@ -8,6 +8,8 @@
 
 - https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype
 
+- 딥러닝 : https://docs.google.com/presentation/d/1cGKgR8zuFkDc_UPxnKckBdOwscIetw56MtLiJSczcSU/edit?usp=sharing
+
 ---
 
 ## 참고 자료
