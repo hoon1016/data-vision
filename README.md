@@ -18,6 +18,8 @@
 
 - 웹/앱 서비스 구성 : https://bit.ly/2YFaWb5
 
+- SVM RBF 커널의 하이퍼 파라미터 : https://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html
+
 ---
 
 ## Colab 환경 셋팅
