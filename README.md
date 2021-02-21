@@ -10,7 +10,8 @@
 
 - 머신러닝 : https://docs.google.com/presentation/d/1pvgye0Gt5DKgA7Kn5pc4Cfy-D4VtmQTxVIvbxa-GfFc/edit#slide=id.ga8aab8fd2a_0_50
 
-- 딥러닝 : https://docs.google.com/presentation/d/1cGKgR8zuFkDc_UPxnKckBdOwscIetw56MtLiJSczcSU/edit?usp=sharing
+- 딥러닝 : https://docs.google.com/presentation/d/1DCOW7Lum2rnoPU7gxpznimrXV0DOJFc-YkkJt3jZC0U/edit?usp=sharing
+
 
 ---
 
