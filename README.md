@@ -23,6 +23,8 @@
 
 - SVM RBF 커널의 하이퍼 파라미터 : https://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html
 
+- 텐서플로우 모델, 웨이트 저장 및 불러오기 : https://bit.ly/3aMhT0Q
+
 ---
 
 ## Colab 환경 셋팅
