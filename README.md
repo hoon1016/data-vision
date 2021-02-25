@@ -12,6 +12,11 @@
 
 - 딥러닝 : https://docs.google.com/presentation/d/1DCOW7Lum2rnoPU7gxpznimrXV0DOJFc-YkkJt3jZC0U/edit?usp=sharing
 
+- 해피 새드 파일 다운로드 코드 
+
+!wget --no-check-certificate \
+    "https://storage.googleapis.com/laurencemoroney-blog.appspot.com/happy-or-sad.zip" \
+    -O "/tmp/happy-or-sad.zip"
 
 ---
 
