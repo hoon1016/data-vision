@@ -30,6 +30,8 @@
 
 - 텐서플로우 모델, 웨이트 저장 및 불러오기 : https://bit.ly/3aMhT0Q
 
+- 캐글 API 사용방법 : https://vision-ai.tistory.com/entry/%EC%BA%90%EA%B8%80-API-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-kagglejson-%ED%8C%8C%EC%9D%BC-%EC%96%BB%EA%B8%B0
+
 ---
 
 ## Colab 환경 셋팅
