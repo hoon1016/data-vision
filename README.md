@@ -32,6 +32,14 @@
 
 - 캐글 API 사용방법 : https://vision-ai.tistory.com/entry/%EC%BA%90%EA%B8%80-API-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-kagglejson-%ED%8C%8C%EC%9D%BC-%EC%96%BB%EA%B8%B0
 
+- 시카고 범죄 데이터 1 : https://drive.google.com/file/d/1fE0ThvIrHLn2_y-L-4AD5Ggpt0bU5F1A/view?usp=sharing
+
+- 시카고 범죄 데이터 2 : https://drive.google.com/file/d/1wo4zY9mz8XzsF7H7OWUAhUrNlKI98xPX/view?usp=sharing
+
+- 시카고 범죄 데이터 3 : https://drive.google.com/file/d/11t2RWb8pRidwDPk5u21GCGEWzLK2tNmG/view?usp=sharing
+
+
+
 ---
 
 ## Colab 환경 셋팅
