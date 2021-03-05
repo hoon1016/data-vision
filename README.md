@@ -12,7 +12,7 @@
 
 - 딥러닝 : https://docs.google.com/presentation/d/1DCOW7Lum2rnoPU7gxpznimrXV0DOJFc-YkkJt3jZC0U/edit?usp=sharing
 
-- 스트림릿을 이용한 UI 구현 : https://docs.google.com/presentation/d/1Tf7Kwnlqz20-ls_2syWhFhNesAv3YYgHQ8El8QsowxE/edit?usp=sharing
+- 스트림릿을 이용한 UI 대시보드 구현 : https://docs.google.com/presentation/d/1Tf7Kwnlqz20-ls_2syWhFhNesAv3YYgHQ8El8QsowxE/edit?usp=sharing
 
 - 해피 새드 파일 다운로드 코드 
 
