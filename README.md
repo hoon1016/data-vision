@@ -48,6 +48,8 @@
 
 - 교통표지판 3 : https://drive.google.com/file/d/1bravuyJ8aKiD536mvPWLDRe09pPf7vIt/view?usp=sharing
 
+- 위도 경도 csv : https://drive.google.com/file/d/1e3oeQVvIfll1YDkewCp1_GGak7HtlfHX/view?usp=sharing
+
 ---
 
 ## Colab 환경 셋팅
