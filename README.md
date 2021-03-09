@@ -28,6 +28,8 @@
 
 - Git 이란(버전컨트롤시스템) : https://bit.ly/36D6gHc
 
+- 비주얼스튜디오 깃 연동 : https://docs.google.com/presentation/d/1mA5LSQy06qEezekaGmn8-QpdgH9l15Kdskjvz1T91x4/edit?usp=sharing
+
 - 웹/앱 서비스 구성 : https://bit.ly/2YFaWb5
 
 - SVM RBF 커널의 하이퍼 파라미터 : https://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html
@@ -59,6 +61,7 @@
 - Colab 에서 구글 드라이브에 연결하는 방법 : https://bit.ly/3aHCOT8
 
 ---
+
 
 ## 실습 환경 셋팅 
 
