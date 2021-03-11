@@ -16,7 +16,7 @@
 
 - 로컬 컴퓨터에 pip 로 파이썬 환경 설치하기 : pip install tensorflow numpy scipy matplotlib ipython scikit-learn pandas pillow jupyter seaborn streamlit
 
-- 로컬 컴퓨터에 콘다 가상환경 만들기 : conda create -n streamlit python=3.7.10 tensorflow numpy scipy matplotlib ipython scikit-learn pandas pillow jupyter seaborn
+- 로컬 컴퓨터에 콘다 가상환경 만들기 : conda create -n streamlit python=3.7.10 tensorflow numpy scipy matplotlib ipython scikit-learn==0.23.2 pandas pillow jupyter seaborn joblib
 
 - 해피 새드 파일 다운로드 코드 
 
