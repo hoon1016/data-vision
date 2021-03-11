@@ -83,6 +83,9 @@ https://www.anaconda.com/products/individual
 
 - 맥(Mac)이나 리눅스인 경우 : 위 참고 파일에서 anaconda prompt 대신, terminal 에서 실행하면 됩니다.
 
+--------
+
+
 ## 우분투 리눅스에서 파이썬 3.7 설치 방법
 
 sudo apt update
