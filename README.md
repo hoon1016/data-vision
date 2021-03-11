@@ -18,6 +18,8 @@
 
 - 로컬 컴퓨터에 콘다 가상환경 만들기 : conda create -n streamlit python=3.7.10 tensorflow numpy scipy matplotlib ipython scikit-learn==0.23.2 pandas pillow jupyter seaborn joblib
 
+- 우분투에 .bashrc 에 추가 : export PATH="/home/ubuntu/anaconda3/bin:$PATH"
+
 - 해피 새드 파일 다운로드 코드 
 
 !wget --no-check-certificate \
