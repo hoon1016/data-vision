@@ -102,6 +102,6 @@ sudo apt install python3-pip
 
 pip3 install virtualenv  
 
-virtualenv 가상환경이름
+virtualenv -p python3.7 가상환경이름
 
-
+source ~/myenv/bin/activate
