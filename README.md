@@ -14,7 +14,7 @@
 
 - 스트림릿을 이용한 UI 대시보드 구현 : https://docs.google.com/presentation/d/1Tf7Kwnlqz20-ls_2syWhFhNesAv3YYgHQ8El8QsowxE/edit?usp=sharing
 
-- 로컬 컴퓨터에 pip 로 파이썬 환경 설치하기 : pip install tensorflow numpy scipy matplotlib ipython scikit-learn pandas pillow jupyter seaborn streamlit
+- 로컬 컴퓨터에 pip 로 파이썬 환경 설치하기 : pip install tensorflow numpy scipy matplotlib ipython scikit-learn==0.23.2 pandas pillow jupyter seaborn streamlit
 
 - 로컬 컴퓨터에 콘다 가상환경 만들기 : conda create -n streamlit python=3.7.10 tensorflow numpy scipy matplotlib ipython scikit-learn==0.23.2 pandas pillow jupyter seaborn joblib
 
